@@ -1,0 +1,19 @@
+body {
+  background-color: lightgrey;
+}
+
+.card-title {
+  font-family: 'Creepster', cursive;
+  font-size: 32px;
+}
+
+#icons {
+  width: 40%;
+  margin: 20px;
+}
+
+.card {
+  -webkit-box-shadow: 0 10px 10px 0 grey;
+          box-shadow: 0 10px 10px 0 grey;
+}
+/*# sourceMappingURL=style.css.map */
